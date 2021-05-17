@@ -13,7 +13,7 @@ Future ideas:
 
 Some images generated with the above raytracer:
 
-
+ThreeBalls_2.png
 
 Helpful resources and References:
 1. TU Wien Rendering Course - https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
