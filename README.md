@@ -5,14 +5,17 @@ A basic raytracer built in Python, complete with:
 - Reflections
 - Rendering Engine
 
-Future ideas:
+Possible improvements:
 - Add Refractions and caustics
 - Implement Monte Carlo methods for rendering
 - Add different objects, other than spheres
 - Add different types of light sources
 
 Some images generated with the above raytracer:
-<img src=“.\ThreeBalls.png”>
+
+![Three balls](./ThreeBalls.png)
+![Three balls](./ThreeBalls_2.png)
+![Three balls](./Balls_reflection.png)
 
 Helpful resources and References:
 1. TU Wien Rendering Course - https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
