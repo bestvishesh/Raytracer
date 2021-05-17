@@ -12,8 +12,12 @@ Future ideas:
 - Add different types of light sources
 
 Some images generated with the above raytracer:
-
-https://github.com/bestvishesh/Raytracer/blob/307171a99c7885a53fa2bfa14fee1232fd7026ef/ThreeBalls.png
+<img
+src=“./ThreeBalls.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 Helpful resources and References:
 1. TU Wien Rendering Course - https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
