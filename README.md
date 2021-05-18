@@ -10,6 +10,7 @@ Possible improvements:
 - Implement Monte Carlo methods for rendering
 - Add different objects, other than spheres
 - Add different types of light sources
+- Output image in compressed jpg/png files instead of ppm
 
 Some images generated with the above raytracer:
 
